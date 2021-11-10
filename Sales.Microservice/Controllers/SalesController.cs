@@ -40,8 +40,9 @@ namespace Sales.Microservice.Controllers
             .ToArray();
         }
         [HttpPost]
-        public Customer NewCustomer(String name){
-            return new Customer(){Company = "UCB", Name = name};
+        public Customer NewCustomer(String name)
+        {
+            return new Customer() { Company = "UCB", Name = name };
         }
     }
 }
