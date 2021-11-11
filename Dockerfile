@@ -2,10 +2,10 @@ FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-buster-slim AS base
 EXPOSE 80
 EXPOSE 443
 
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS devBase
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS devbase
 WORKDIR /src
 
-FROM devBase as build
+FROM devbase as build
 COPY . .
 RUN dotnet build ./Sales.Microservice/ -c Release -o /app
 
