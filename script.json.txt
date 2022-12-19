@@ -13,5 +13,6 @@ city: Cochabamba
 Country: Bolivia
 favorite chocolate: kisses
 favorite drink: Coffee
+favorite christmas character: Grinch 
 
 }
