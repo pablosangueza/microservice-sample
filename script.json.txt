@@ -16,5 +16,5 @@ favorite chocolate: kisses
 favorite drink: Coffee
 favorite christmas character: Grinch 
 favorite movies: comedy
-
+favorite season: Christmas
 }
