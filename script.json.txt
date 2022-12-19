@@ -12,5 +12,6 @@ jobby 6: travel
 city: Cochabamba
 Country: Bolivia
 favorite chocolate: kisses
+favorite drink: Coffee
 
 }
