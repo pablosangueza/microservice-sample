@@ -6,5 +6,6 @@ department: 35C
 jobby 1: cook
 jobby 2: bake
 jobby 3: sleep
+jobby 4: play with Frida
 
 }
