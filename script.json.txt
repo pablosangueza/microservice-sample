@@ -8,5 +8,6 @@ jobby 2: bake
 jobby 3: sleep
 jobby 4: play with Frida
 jobby 5: go to the gym
+jobby 6: travel
 
 }
